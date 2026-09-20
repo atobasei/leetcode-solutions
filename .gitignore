@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+a.out
+
+# Misc
+*.log
